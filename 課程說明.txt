@@ -1,0 +1,22 @@
+軟體環境：
+
+a. Visual Studio Code -- 後端網頁編輯環境
+b. Bootstrap -- 製作響應式網頁
+c. Nodejs -- 後端網頁開發
+d. Git --  連結 Github 做版本控制 
+e. MySQL server -- 關聯式資料庫
+f. MySQL  Workbench -- 操作 MySQL 用
+g. postman -- 快速開發 API   
+-------
+
+Visual Studio Code extensions (B218, E314, E213, E201)
+
+Auto rename tag
+Code spell checker
+Html css support
+Intellisense css scss
+Es6 code snippets
+Live server
+Prettier
+Bracket Pair Colorizer
+Material Icon Theme

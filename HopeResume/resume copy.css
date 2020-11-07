@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    position: absolute;
+    top: 50px;
+    margin-bottom: 50px;
+}
+.navv{
+    display: flex;
+    background-color: black;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.navv a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 20px;
+}
+.navv a:hover{
+    color: rgb(0, 119, 255);
+}
+.click{
+    position: absolute;
+    right: 10px;
+}
+.back{
+    background: url('../img/20190312_163633.png') no-repeat center center/cover;;
+    display: flex;
+    height: 350px;
+    width: 100%;
+    padding-left: 230px;
+}
+.img{
+    position: absolute;
+    top: 240px;
+    left: 40px;
+}
+#personweb{
+    font-size: 35px;
+    text-align: center;
+}
+#personweb i{
+    color: black;
+    padding: 5px;
+}
+
+.hashtag{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    text-align: center;
+    padding: 20px;
+    color: #ffffff;
+}
+.hashtag span{
+    background-color: #554c4c;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 8px;
+    font-weight: 10px;
+}
+.intro{
+    padding-left: 260px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.skill{
+    margin-top: 100px;
+    padding-top: 20px;
+    width: 100%;
+    padding-left: 35px;
+    font-size: 20px;
+    border-top: rgb(34, 49, 133) 5px solid;
+    border-bottom: rgb(34, 49, 133) 5px solid;
+}
+hr{
+    width: 90%;
+    height: 1px;
+    background-color: rgb(34, 49, 133);
+}
+.college{
+    width: 100%;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    font-size: 20px;
+    border-bottom: rgb(34, 49, 133) 5px solid;
+}
+.history{
+    width: 100%;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    font-size: 20px;
+    border-bottom: rgb(34, 49, 133) 5px solid;
+}
+.condition{
+    width: 100%;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    font-size: 20px;
+    border-bottom: rgb(34, 49, 133) 5px solid;
+}
+.left{
+    float: left;
+    margin-right: 20px;
+}
+.works{
+    width: 100%;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    font-size: 20px;
+    border-bottom: rgb(34, 49, 133) 5px solid;
+}
+.person{
+    width: 100%;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    font-size: 20px;
+}
+p{
+    margin-top: 5px;
+    font-size: 20px;
+}

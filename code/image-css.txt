@@ -1,0 +1,21 @@
+#line {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #line img {
+    width: 17%;
+    margin: 1%;
+    padding: 1px;
+  }
+
+  p {
+    text-transform: uppercase;
+    font-family: fantasy;
+    font-size: 25px;
+    font-weight: 20px;
+    border-bottom: 5px solid #990a0a21;
+    padding-bottom: 20px;
+    width: 30%;
+    margin: 1.66%;
+    color: blue;
+  }

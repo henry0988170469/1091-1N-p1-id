@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(247, 140, 101);
+}
+table{
+    background-color: cornsilk;
+    width: 90%;
+    height: 90vh;
+    text-align: center;
+    margin: auto;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: solid;
+}
+th,td{
+    width: 10%;
+    height: 10%;
+}
+th{
+    font-size: large;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
